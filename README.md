@@ -1,0 +1,1 @@
+"# jotei-vite-import-error" 
